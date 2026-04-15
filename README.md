@@ -229,7 +229,6 @@ ScratchDB is a good fit if you are:
 
 - Learning database internals
 - Practicing systems programming in Go
-- Building a portfolio project for GitHub
 - Looking for a small codebase to extend in public
 - Curious how SQL maps onto data structures
 
